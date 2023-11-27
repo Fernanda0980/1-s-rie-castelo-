@@ -1,1 +1,14 @@
-body {''''}
+body {
+
+
+
+
+
+
+
+.texto {
+        font-size: 
+        text-aling:justify;
+           color: black; 
+
+}
