@@ -1,6 +1,18 @@
 body { 
 background-color;
-#titulo {font sizi.. 80pex
+
+
+#titulo {
+    font-size: 80px:
+    text-align:center;
+    color;pink
+
+}
+header {
+    padding: 20px;
+    background-color; black;
+    border-bottom: 5px solid;
+}
 
 
 
@@ -8,6 +20,4 @@ background-color;
 
 
 
-
-
-beckground color
+beckground-color: black 
